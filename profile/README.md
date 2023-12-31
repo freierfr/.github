@@ -13,6 +13,6 @@ Our main providers are:
 
 ```mermaid
 graph TD;
-    global-->marvin_telegram;
-    google_workspace-->marvin_telegram;
+    global--uses DNS zone-->marvin_telegram;
+    google_workspace--retrieves telegram user IDs-->marvin_telegram;
 ```
