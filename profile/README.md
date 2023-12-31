@@ -8,8 +8,9 @@ Various modules exist, each one with a specific role.
 
 Our main providers are:
 
- - [Azure](https://azure.microsoft.com/)
- - [Google Workspace](https://workspace.google.com/)
+ - [Azure](https://azure.microsoft.com)
+ - [Google Workspace](https://workspace.google.com)
+ - [Cloudflare](https://www.cloudflare.com)
 
 ```mermaid
 graph TD;
